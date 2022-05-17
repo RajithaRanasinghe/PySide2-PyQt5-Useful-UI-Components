@@ -5,3 +5,11 @@ Example code to show how to add a logo screen to your Qt Application
 
 ![LOGO Screenshot](logo_screen/Screenshot1.png) 
 ![APP Screenshot](logo_screen/Screenshot2.png)
+
+## 2) Custom Theme, Custom Color Palette, Button Creation in Loops
+Example codes to switch main Theme, Switch between color themes and how to generate button in a loop.
+
+![ScreenShot_inbuitStyleSheets Screenshot](Toggle_themes_Create_Buttons_Byloops/ScreenShot_inbuitStyleSheets_1.png)
+![CustomColorPalette Screenshot](Toggle_themes_Create_Buttons_Byloops/ScreenShot_customColorPalette_1.png)
+![CustomColorPalette2 Screenshot](Toggle_themes_Create_Buttons_Byloops/ScreenShot_customColorPalette_2.png)
+
