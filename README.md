@@ -24,7 +24,7 @@ Example code to,
 2. Generate random Image using Numpy array, Convert Numpy array to QImage, convert it to Qpixmap and Show it the User Interface.
 3. Select between two image options using QComoBox
 
-![Showing saved image](03_Display_image_QComboBox/viewSampleImage.png)
-![Showing randomly generated image](03_Display_image_QComboBox/viewRandomGeneratedImage.png)
+![Showing saved image](03_Display_image_QComboBox/viewSampleImage.PNG)
+![Showing randomly generated image](03_Display_image_QComboBox/viewRandomGeneratedImage.PNG)
 
 
