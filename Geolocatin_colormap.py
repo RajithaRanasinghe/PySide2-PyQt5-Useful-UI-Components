@@ -22,7 +22,7 @@ class MainWindow(QWidget):
         
         # Add a heatmap layer to the map
         #heatmap = folium.plugins.HeatMap(data, name='Heatmap', min_opacity=0.5, max_val=10)
-        heatmap = folium.plugins.HeatMap(data, radius = 10, gradient={.2: 'green', .5: 'blue', .8: 'yellow', 1: 'red'})
+        heatmap = folium.plugins.HeatMap(data, radius = 20, gradient={.2: 'green', .5: 'blue', .8: 'yellow', 1: 'red'})
 
         
         heatmap.add_to(m)
