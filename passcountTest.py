@@ -35,7 +35,7 @@ for i in range (10):
     #print('{}.{}'.format(lat, lon))
     print('geohash {}'.format(pgh.encode(lat, lon)))
 
-    geohash_val = pgh.encode(lat, lon)
+    geohash_val = pgh.encode(lat, lon, precision=12)
     if geohash_val != prev_geohash:
         if geohash_val in duplicate_counts:
             duplicate_counts[geohash_val] += 1
